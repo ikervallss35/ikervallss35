@@ -1,6 +1,6 @@
 ## 👋 Hola, soy Iker Valls Jiménez
 
-🎓 Estudiante del **primer trimestre del Grado Superior en Desarrollo de Aplicaciones Web**.  
+🎓 Estudiante de **primer curso del Grado Superior en Desarrollo de Aplicaciones Web.**
 Apasionado por la informática y dando mis primeros pasos en el mundo del desarrollo.
 
 ---
