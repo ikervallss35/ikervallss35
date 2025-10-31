@@ -9,6 +9,7 @@
   - GitHub para control de versiones
   - Sistemas operativos y redes básicas
   - Entornos de desarrollo como Visual Studio Code e IntelliJ
+- 🕒 Fútbol • Música • Viajar
 
     [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/íker-valls-jiménez-3789082aa)
 
