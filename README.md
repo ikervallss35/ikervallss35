@@ -4,10 +4,11 @@
 
 - 🌱 Estoy aprendiendo y voy a aprender:
   - Lenguaje de programación Java 
-  - HTML y CSS para crear y diseñar páginas web
+  - Creación y diseño de páginas web con HTML y CSS
   - Tecnologías XML: XML, XSD, DTD, XPath y XSLT
   - GitHub para control de versiones
-  - Sistemas operativos y redes básicas
+  - Sistemas operativos (Windows y Linux en entornos cliente y servidor)
+
   - Entornos de desarrollo como Visual Studio Code e IntelliJ
 - 🕒 Fútbol • Música • Viajar
 
