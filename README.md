@@ -12,7 +12,6 @@ Apasionado por la informática y dando mis primeros pasos en el mundo del desarr
 - 🛠️ Entornos de desarrollo: Visual Studio Code e IntelliJ IDEA
 ---
 ### 🎯 Hobbies
-
 - ⚽ Fútbol
 - 🎵 Música
 - ✈️ Viajar
