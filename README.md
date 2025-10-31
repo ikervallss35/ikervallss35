@@ -29,5 +29,3 @@ Apasionado por la informática y dando mis primeros pasos en el mundo del desarr
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/íker-valls-jiménez-3789082aa)
 
 ---
-
-¡Gracias por visitar mi perfil! 
