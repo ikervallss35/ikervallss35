@@ -1,18 +1,33 @@
-## Hola, soy Iker Valls Jiménez👋
+## 👋 Hola, soy Iker Valls Jiménez
 
-🎓 Estudiante del primer curso de Desarrollo de Aplicaciones Web.
+🎓 Estudiante del **primer trimestre del Grado Superior en Desarrollo de Aplicaciones Web**.  
+Apasionado por la informática y dando mis primeros pasos en el mundo del desarrollo.
 
-- 🌱 Estoy aprendiendo:
-  - Lenguaje de programación Java 
-  - Creación y diseño de páginas web con HTML y CSS
-  - Tecnologías XML: XML, XSD, DTD, XPath y XSLT
-  - GitHub para control de versiones
-  - Sistemas operativos (Windows y Linux en entornos cliente y servidor)
+---
 
-  - Entornos de desarrollo como Visual Studio Code e IntelliJ
-- 🕒 Fútbol • Música • Viajar
+### 🌱 Actualmente estoy aprendiendo:
 
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/íker-valls-jiménez-3789082aa)
+- 💻 **Java** como lenguaje de programación
+- 🌐 **HTML y CSS** para crear y diseñar páginas web
+- 🧩 Tecnologías **XML**: XML, XSD, DTD, XPath y XSLT
+- 🗂️ **GitHub** para control de versiones
+- 🖥️ **Sistemas operativos**: Windows y Linux en entornos cliente y servidor
+- 🛠️ Entornos de desarrollo: Visual Studio Code e IntelliJ IDEA
 
+---
+
+### 🎯 Hobbies
+
+- ⚽ Fútbol
+- 🎵 Música
+- ✈️ Viajar
+
+---
+
+### 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/íker-valls-jiménez-3789082aa)
+
+---
 
 ¡Gracias por visitar mi perfil! 
