@@ -1,6 +1,6 @@
 ## Hola, soy Iker Valls Jiménez👋
 
-🎓 Estudiante del primer curso de Desarrollo de Aplicaciones Web. Siempre estuve interesado en la informática y en el mundo del desarrollo web, estoy dando mis primeros pasos en la programación.
+🎓 Estudiante del primer curso de Desarrollo de Aplicaciones Web.
 
 - 🌱 Estoy aprendiendo y voy a aprender:
   - Lenguaje de programación Java 
