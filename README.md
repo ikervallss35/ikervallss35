@@ -4,7 +4,6 @@
 Apasionado por la informática y dando mis primeros pasos en el mundo del desarrollo.
 ---
 ### 🌱 Actualmente estoy aprendiendo:
-
 - 💻 **Java** como lenguaje de programación
 - 🌐 **HTML y CSS** para crear y diseñar páginas web
 - 🧩 Tecnologías **XML**: XML, XSD, DTD, XPath y XSLT
