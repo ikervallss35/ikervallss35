@@ -1,4 +1,4 @@
-## Hola, soy Iker Valls 👋
+## Hola, soy Iker Valls Jiménez👋
 
 🎓 Estudiante del primer curso de Desarrollo de Aplicaciones Web. Siempre estuve interesado en la informática y en el mundo del desarrollo web, estoy dando mis primeros pasos en la programación.
 
@@ -15,4 +15,4 @@
     [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/íker-valls-jiménez-3789082aa)
 
 
-¡Gracias por visitar mi perfil! 🚀
+¡Gracias por visitar mi perfil! 
