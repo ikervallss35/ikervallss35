@@ -11,7 +11,6 @@ Apasionado por la informática y dando mis primeros pasos en el mundo del desarr
 - 🗂️ **GitHub** para control de versiones
 - 🖥️ **Sistemas operativos**: Windows y Linux en entornos cliente y servidor
 - 🛠️ Entornos de desarrollo: Visual Studio Code e IntelliJ IDEA
-
 ---
 
 ### 🎯 Hobbies
@@ -19,7 +18,6 @@ Apasionado por la informática y dando mis primeros pasos en el mundo del desarr
 - ⚽ Fútbol
 - 🎵 Música
 - ✈️ Viajar
-
 ---
 
 ### 📫 Contacto
