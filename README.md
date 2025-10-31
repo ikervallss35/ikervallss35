@@ -12,14 +12,12 @@ Apasionado por la informática y dando mis primeros pasos en el mundo del desarr
 - 🖥️ **Sistemas operativos**: Windows y Linux en entornos cliente y servidor
 - 🛠️ Entornos de desarrollo: Visual Studio Code e IntelliJ IDEA
 ---
-
 ### 🎯 Hobbies
 
 - ⚽ Fútbol
 - 🎵 Música
 - ✈️ Viajar
 ---
-
 ### 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/íker-valls-jiménez-3789082aa)
