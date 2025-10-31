@@ -10,4 +10,7 @@
   - Sistemas operativos y redes básicas
   - Entornos de desarrollo como Visual Studio Code e IntelliJ
 
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/íker-valls-jiménez)
+
+
 ¡Gracias por visitar mi perfil! 🚀
