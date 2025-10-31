@@ -2,7 +2,7 @@
 
 🎓 Estudiante del primer curso de Desarrollo de Aplicaciones Web.
 
-- 🌱 Estoy aprendiendo y voy a aprender:
+- 🌱 Estoy aprendiendo:
   - Lenguaje de programación Java 
   - Creación y diseño de páginas web con HTML y CSS
   - Tecnologías XML: XML, XSD, DTD, XPath y XSLT
