@@ -2,9 +2,7 @@
 
 🎓 Estudiante del **primer curso del Grado Superior en Desarrollo de Aplicaciones Web.**
 Apasionado por la informática y dando mis primeros pasos en el mundo del desarrollo.
-
 ---
-
 ### 🌱 Actualmente estoy aprendiendo:
 
 - 💻 **Java** como lenguaje de programación
