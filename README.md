@@ -5,7 +5,7 @@
 - 💻 **Java** como lenguaje de programación
 - 🌐 **HTML y CSS** para crear y diseñar páginas web, y **JavaScript** para añadir interactividad
 - 🧩 Tecnologías **XML**: XML, XSD, DTD, XPath y XSLT
-- 🗂️ **GitHub** para control de versiones
+- 🗂️ **Git y GitHub** para control de versiones
 - 🖥️ **Sistemas operativos**: Windows y Linux en entorno cliente
 ---
 ### 🎯 Hobbies
