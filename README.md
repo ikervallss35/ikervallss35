@@ -7,6 +7,7 @@
 - 🧩 Tecnologías **XML**: XML, XSD, DTD, XPath y XSLT
 - 🗂️ **Git y GitHub** para control de versiones
 - 🖥️ **Sistemas operativos**: Windows y Linux en entorno cliente
+- 🗄️ **SQL**: Entidad Relación, Relacional, Normalización, DDL, DML, DQL, DCL, TCL, subconsultas y PL/pgSQL
 ---
 ### 🎯 Hobbies
 - ⚽ Fútbol
