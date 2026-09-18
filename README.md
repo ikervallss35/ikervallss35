@@ -1,9 +1,9 @@
 ## 👋 Hola, soy Iker Valls Jiménez
-🎓 Estudiante del **primer curso del Grado Superior en Desarrollo de Aplicaciones Web.**
+🎓 Estudiante del **segundo curso del Grado Superior en Desarrollo de Aplicaciones Web.**
 ---
 ### 🌱 Actualmente estoy aprendiendo:
 - 💻 **Java** como lenguaje de programación
-- 🌐 **HTML y CSS** para crear y diseñar páginas web
+- 🌐 **HTML y CSS** para crear y diseñar páginas web, y **JavaScript** para añadir interactividad
 - 🧩 Tecnologías **XML**: XML, XSD, DTD, XPath y XSLT
 - 🗂️ **GitHub** para control de versiones
 - 🖥️ **Sistemas operativos**: Windows y Linux en entorno cliente
